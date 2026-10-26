@@ -33,3 +33,10 @@ appareils ne sont pas encore intégrés.
 Si l’installation s’interrompt, double-clique à nouveau sur le même lanceur :
 les fichiers déjà vérifiés et tes échanges sont conservés. Si un message
 persiste, transmets ce message ; n’envoie pas ton fichier .data/owner-code.
+
+MISE À JOUR D’UNE INSTALLATION EXISTANTE
+
+Ferme l’ancienne fenêtre du lanceur. Remplace les fichiers du dossier Lumos
+avec ceux du nouveau paquet, sans supprimer .data ni .venv, puis double-clique
+à nouveau sur Demarrer Lumos.cmd. Les composants déjà téléchargés et tes
+échanges sont conservés. La correction Windows ajoute colorama à l’étape 2.
