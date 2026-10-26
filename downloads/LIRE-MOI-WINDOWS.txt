@@ -1,0 +1,35 @@
+LUMOS — PREMIER ESSAI SUR WINDOWS
+
+1. Extrais entièrement l’archive dans un dossier que tu veux conserver.
+   Ne lance pas Lumos directement à l’intérieur du ZIP.
+2. Double-clique sur « Demarrer Lumos.cmd ».
+3. Attends l’ouverture du navigateur. Tu peux ensuite écrire à Lumos.
+
+Au premier lancement, Internet est nécessaire : Python, les composants et les
+modèles gratuits s’installent automatiquement dans ce dossier. Prévois 4 Go
+libres et plusieurs minutes. Aucun compte ni abonnement d’IA n’est nécessaire.
+Si un composant Microsoft est absent, Windows peut demander son installation.
+
+Les lancements suivants réutilisent l’installation et les modèles locaux.
+Un raccourci Lumos est ajouté au Bureau si Windows l’autorise.
+Garde la fenêtre du lanceur ouverte pendant ton essai. Ferme-la ou appuie sur
+Ctrl+C pour arrêter Lumos et les services qu’il a lancés.
+
+Pour la voix, active « Parler » dans Lumos et autorise le micro. Une voix
+française locale de Windows doit être disponible dans ton navigateur.
+Commence avec un casque. Micro, haut-parleur et interruption restent à
+qualifier sur un vrai appareil : le paquet n’a pas été exécuté sous Windows
+par le développeur de cette session Linux.
+
+Ce paquet vise Windows 10/11, PC Intel ou AMD 64 bits. L’IA fonctionne sur
+TON ordinateur. Les échanges restent dans le sous-dossier .data de Lumos.
+Évite de déplacer le dossier pendant que Lumos fonctionne. Pour transférer
+ses données, utilise l’export depuis Réglages avant de désinstaller le dossier.
+
+Cette première version propose conversation, tâches internes, historique,
+carnet mémoire et export. Alarmes iPhone, mails et synchronisation entre
+appareils ne sont pas encore intégrés.
+
+Si l’installation s’interrompt, double-clique à nouveau sur le même lanceur :
+les fichiers déjà vérifiés et tes échanges sont conservés. Si un message
+persiste, transmets ce message ; n’envoie pas ton fichier .data/owner-code.
